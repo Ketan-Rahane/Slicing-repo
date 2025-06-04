@@ -9,3 +9,9 @@ print(S[-1:-9:-6])
 print(S[-2:-9:-1])
 
 #Outputs
+MARG
+RAS
+MGS
+MT
+MS
+ARGATSN
